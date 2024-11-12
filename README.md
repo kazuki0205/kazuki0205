@@ -22,7 +22,7 @@
 </div>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,php,next,figma,photoshop,illustrator,kotlin,python,docker,azure" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,php,mysql,figma,photoshop,illustrator,kotlin,python,docker,azure" />
 <br>
 
 
