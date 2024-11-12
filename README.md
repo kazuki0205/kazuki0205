@@ -15,13 +15,13 @@
   </a>
 </p>
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazuki0205&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazuki0205&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kazuki0205&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazuki0205&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazuki0205&theme=gruvbox&utcOffset=9)
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+<br>
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=kazuki0205&theme=gruvbox)
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=kazuki0205&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki0205&theme=vue-dark&layout=compact" />
+</div>
 
