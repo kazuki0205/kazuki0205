@@ -13,7 +13,4 @@
   <a href="http://qiita.com/kazuki0205">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kazuki0205/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/kazuki0205">
-    <img height="20" src="https://badgen.org/img/zenn/kazuki0205/articles?style=plastic" />
-  </a>
 </p>
